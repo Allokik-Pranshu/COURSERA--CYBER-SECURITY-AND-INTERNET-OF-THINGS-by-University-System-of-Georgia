@@ -1,0 +1,14 @@
+Needless to say that IoT application development is touching the new height. Taking over the world at a drastic rate, transforming the way we used to look at everything before, Internet of Things is turning into a fundamental element of our lives. From your smart watch to smart home, smart trains to smart cars – Everything you have experienced before is now getting a complete smart makeover. Below are some popular and intriguing uses of Internet of Things:
+
+1. Smart Home: Now your home can be voice-activated and sensor-activated. All you have to do is speak or move around a device to switch on the lights or remove the curtains.
+
+2. Wearables: Smart watches are the most commonly used IoT devices. Now from attending calls to making calls, checking up all the notifications to keeping track of your heart rate – all possible with just a smart watch around your wrist.
+
+3. Smart City: This spans a wide range of use cases including traffic management to water distributions to urban security to environmental monitoring and everything else that is key to mankind and its habitat.
+
+4. Connected car: Although connected car is still becoming a thing in the modern age, but the future is ardently looking forward to welcoming it.
+
+
+Another beautiful example of use cases in IoT can be considered as the offender monitoring using a wearable anklet. This concept was shown in the Marvel’s movie- Ant Man & The Wasp in 2018, however Hughes Systique worked with a leading IoT platform & app developer to build this use case.
+
+The prime ask was to make sure that inmates on parole abide by the court’s law and stay away from any felony. The anklet is a GPS based tracking device which is securely tied by state officials on the inmates. Once they are on parole for a stipulated time frame, their positions can be monitored over a dashboard screen and send alerts to officials in case of any violation like moving outside the state premises/ presence in a crime scene.

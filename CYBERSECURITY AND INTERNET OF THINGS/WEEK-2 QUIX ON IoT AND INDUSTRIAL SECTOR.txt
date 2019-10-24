@@ -1,0 +1,283 @@
+
+Quiz on IoT and the Industrial Sector
+TOTAL POINTS 30
+
+1.Question 1
+According to Xu, He, & Li (2014), the food industry is using RFID to help monitor food quality.
+
+
+True
+
+
+
+1 point
+
+2.Question 2
+According to Xu, He, & Li (2014), protecting privacy in the IoT environment is not as serious as it is in other environments.
+
+
+False
+
+1 point
+
+3.Question 3
+According to Xu, He, & Li (2014), a strong interest exists in using social networking to enhance communication between different IoT devices.
+
+
+True
+
+
+1 point
+
+4.Question 4
+According to Xu, He, & Li (2014), standardization among IoT devices is simple, because the growth is easy to anticipate.
+
+
+
+
+
+False
+
+1 point
+
+5.Question 5
+Xu, He, & Li (2014) recommend the creation of industry-specific guidelines or standards for implementing IoT devices in industrial spaces.
+
+
+True
+
+
+
+
+1 point
+
+6.Question 6
+According to Xu, He, & Li (2014), there is low interest in using IoT technologies in various industries
+
+
+
+
+False
+
+1 point
+
+7.Question 7
+According to Xu, He, & Li (2014), there is no commonly accepted definition for IoT
+
+
+
+False
+
+1 point
+
+8.Question 8
+According to Xu, He, & Li (2014), RFID is not a technology used in IoT environments
+
+
+
+
+False
+
+1 point
+
+9.Question 9
+According to Haller, Karnouskos, & Schroth (2009), which of the following are major technical issues related to IoT adoption
+
+
+
+
+
+All of these are major technical issues
+
+
+
+
+1 point
+
+10.Question 10
+According to Haller, Karnouskos, & Schroth (2009), sensory information is the foundation of event-driven management
+
+
+True
+
+
+
+
+1 point
+
+11.Question 11
+According to Haller, Karnouskos, & Schroth (2009), IoT solutions cannot help avoid so-called “empty shelf” situations, where customers are unable to purchase goods
+
+
+
+
+False
+
+1 point
+
+12.Question 12
+According to Haller, Karnouskos, & Schroth (2009), the right type of network architecture can help improve business data quality on all levels
+
+
+True
+
+
+
+1 point
+
+13.Question 13
+According to Haller, Karnouskos, & Schroth (2009), IoT technologies will allow the tracking of an object through the complete supply chain
+
+
+True
+
+
+
+1 point
+
+14.Question 14
+According to Haller, Karnouskos, & Schroth (2009), smart meters will not make any contribution to increasing energy efficiency
+
+
+
+
+False
+
+1 point
+
+15.Question 15
+Which of the following is not identified by Hua, Junguo, & Fantao (2014) as associated with IoT?
+
+
+Bi-polar radio field transmission technology
+
+1 point
+
+16.Question 16
+According to Hua, Junguo, & Fantao (2014), the current universally approved smart grid network is split into how many layers
+
+three
+
+1 point
+
+17.Question 17
+According to Hua, Junguo, & Fantao (2014), which of these layers is not part of the current universally approved smart grid network design
+
+
+Protocol layer
+
+1 point
+
+18.Question 18
+According to Hua, Junguo, & Fantao (2014), wireless sensor networks can be used to help predict wind power generation
+
+
+True
+
+
+1 point
+
+19.Question 19
+According to Hua, Junguo, & Fantao (2014), IoT technologies will not allow for monitoring of overhead transmission lines, due to electrical wave interference
+
+
+False
+
+1 point
+
+20.Question 20
+According to Hua, Junguo, & Fantao (2014), IoT technologies can be used to remotely control factory and industrial equipment
+
+
+True
+
+
+
+1 point
+
+21.Question 21
+According to Kumar & Patel (2014), IoT networks and devices can be used to alert medical institutions in the case of emergency health situations
+
+
+True
+
+
+
+1 point
+
+22.Question 22
+According to Kumar & Patel (2014), smart home networks cannot be used to collect reporting data for use by public utilities
+
+
+
+False
+
+1 point
+
+23.Question 23
+According to Kumar & Patel (2014), IoT security concerns exist in these areas
+
+
+Both front-end sensors and equipment and back-end IT systems
+
+1 point
+
+24.Question 24
+According to Kumar & Patel (2014), this is defined as the ability of an entity to determine the degree to which it will share information about itself, with others
+
+
+Privacy
+
+
+
+1 point
+
+25.Question 25
+According to Kumar & Patel (2014), digital rights management would not be a good choice for addressing privacy concerns related to data processing
+
+
+False
+
+1 point
+
+26.Question 26
+According to Kumar & Patel (2014), businesses could protect user privacy in databases by allowing access only to statistical data and using aggregate queries
+
+
+True
+
+
+1 point
+
+27.Question 27
+According to Tarouco et. al (2012), IoT standards should include open APIs
+
+
+True
+
+1 point
+
+28.Question 28
+According to Tarouco et. al (2012), medical patients cannot access data captured by IoT devices
+
+False
+
+1 point
+
+29.Question 29
+According to Tarouco et. al (2012), one policy component hospitals can use to restrict unauthorized access to patient data is GPS
+
+
+True
+
+1 point
+
+30.Question 30
+According to Tarouco et. al (2012), a potential threat that mobile devices can face is
+
+
+Denial of service attack designed to cause battery exhaustion
+
+
+
+--------------

@@ -1,0 +1,92 @@
+1.Question 1
+According to Li, Lu, Liang, & Shen (2011), “smart communities” are defined by these domains
+
+
+Home, community, service
+
+1 point
+
+2.Question 2
+According to Li, Lu, Liang, & Shen (2011), home gateways are connected to the community center via wireless standards such as WiFi or 3G
+
+
+True
+
+
+
+1 point
+
+3.Question 3
+According to Li, Lu, Liang, & Shen (2011), community centers can store personal, sensitive, or confidential information
+
+
+True
+
+
+
+1 point
+
+4.Question 4
+According to Li, Lu, Liang, & Shen (2011), the key component of the service domain is the “call center”
+
+
+True
+
+
+
+1 point
+
+5.Question 5
+According to Li, Lu, Liang, & Shen (2011), a home gateway can never be considered unreliable
+
+
+False
+
+1 point
+
+6.Question 6
+According to Li, Lu, Liang, & Shen (2011), the “smart community” will also provide social networking functionality
+
+
+True
+
+
+1 point
+
+7.Question 7
+According to Al-Fuqaha et.al. (2015), IoT devices in the connected home will be able to improve quality of life by automating related to personal lifestyle
+
+
+True
+
+
+
+1 point
+
+8.Question 8
+According to Al-Fuqaha et.al. (2015), connected homes will never have to interact with the external environment
+
+
+
+False
+
+1 point
+
+9.Question 9
+According to Hulme (2016), attacks against IoT devices may result in damage to the physical world
+
+
+True
+
+
+
+
+1 point
+
+10.Question 10
+According to Gheorghe (2016), home gadgets do not have to worry about being overheard when transmitting sensitive data
+
+
+
+
+False

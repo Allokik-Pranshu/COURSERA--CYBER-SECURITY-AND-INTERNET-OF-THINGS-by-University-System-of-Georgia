@@ -1,0 +1,171 @@
+1.Question 1
+According to Swan (2012), which of these is not a main category, when categorizing the IoT by market segments
+
+
+Financial market monitoring
+
+1 point
+
+2.Question 2
+According to Swan (2012), there are functional layers in the IoT ecosystem
+
+
+
+
+Data acquisition; Information creation; Meaning-making; Action-taking
+
+1 point
+
+3.Question 3
+According to Swan (2012), the IoT is the ability to connect real-world objects without the use of sensors
+
+
+False
+
+1 point
+
+4.Question 4
+According to Swan (2012), one of the biggest drivers is the increasing number of low-cost sensors on the market today
+
+
+True
+
+
+1 point
+
+5.Question 5
+According to Swan (2012), one potential area for extensive growth is that of wearable sensors, which would be used for short terms and then discarded
+
+
+True
+
+
+1 point
+
+6.Question 6
+According to Swan (2012), there is no need to turn IoT sensor data into anything that can be read or used by humans
+
+
+False
+
+1 point
+
+7.Question 7
+According to Swan (2012), there is no value in using IoT sensor data to return real-time data
+
+
+False
+
+1 point
+
+8.Question 8
+According to Swan (2012), early consumer adopters of IoT technology almost always continue to use the technology for a long period of time
+
+
+False
+
+1 point
+
+9.Question 9
+According to Maddox (2016), wearable technology can be used to allow people to exchange digital business cards
+
+
+True
+
+
+1 point
+
+10.Question 10
+According to Maddox (2016), consumers are not concerned about whether or not their wearable tech is fashionable or not
+
+
+FALSE
+
+
+1 point
+
+11.Question 11
+According to Ericsson Corporation (2016), 6% of people surveyed believe smartphones will be replaced by wearables
+
+
+False
+
+1 point
+
+12.Question 12
+According to Ericsson Corporation (2016), 60% of smartphone users surveyed think that ingestible pills and chips injected under the skin will be used to interact with objects in the next 5 years
+
+
+True
+
+1 point
+
+13.Question 13
+According to Ericsson Corporation (2016), 70% of wearable users surveyed think device manufacturers are serious about protecting user data
+
+
+True
+
+1 point
+
+14.Question 14
+According to Ericsson Corporation (2016), what fraction of first-generation wearable owners were left disappointed
+
+
+1/3
+
+
+
+1 point
+
+15.Question 15
+Hulme (2016) believes that IoT security spending by organizations will grow to 10% of of an organization’s overall IT security budget
+
+
+True
+
+1 point
+
+16.Question 16
+According to Hulme (2016), Gartner expects that by 2020, more than 50% of all attacks on an organization will involve IoT devices
+
+
+False
+
+1 point
+
+17.Question 17
+According to Hulme (2016), Gartner believes that there is no relationship between the future of cloud-based security devices and the future of the IoT
+
+
+False
+
+1 point
+
+18.Question 18
+According to Peppet (2014), anonymized data can be de-anonymized, revealing information about individual users
+
+
+True
+
+1 point
+
+19.Question 19
+According to Peppet (2014), sensor datasets are particularly vulnerable to being de-anonymized
+
+
+True
+
+1 point
+
+20.Question 20
+According to Peppet (2014), personally identifiable information is usually defined as
+
+
+
+Name, address, social security number, telephone number
+
+
+
+
+1 point
